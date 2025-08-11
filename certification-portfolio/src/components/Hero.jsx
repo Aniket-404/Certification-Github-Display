@@ -63,7 +63,7 @@ export default function Hero() {
             <FaLinkedin /> LinkedIn
           </a>
           <a
-            href="/certificates/Advanced React by Meta.pdf"
+            href="certificates/Advanced React by Meta.pdf"
             className="inline-flex items-center gap-2 px-5 py-3 rounded-xl font-semibold text-emerald-700 bg-emerald-50 hover:bg-emerald-100 dark:bg-emerald-900/30 dark:text-emerald-200 hover:scale-[1.02] active:scale-[0.99] transition border border-emerald-200 dark:border-emerald-800"
           >
             <FaDownload /> Download Sample Cert
